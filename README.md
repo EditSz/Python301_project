@@ -1,1 +1,2 @@
-# This is a simple bank account app 
+# Practicing Python
+This is a simple bank account app 
